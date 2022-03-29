@@ -1,0 +1,42 @@
+body {
+  background-color: #D3DEDC;
+}
+
+p {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: sans-serif;
+  width: 80%;
+  margin: auto;
+  line-height: 1.25;
+  color: #7C99AC;
+}
+
+h2 {
+  font-size: 21px;
+  font-weight: 700;
+  font-family: sans-serif;
+  width: 90%;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.top-container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  width: 20%;
+  background-color: white;
+  text-align: center;
+  border-radius: 9px;
+  padding-top: 15px;
+  padding-bottom: 25px;
+}
+
+.qr-code {
+  width: 90%;
+  text-align: center;
+  border-radius: 9px;
+}
